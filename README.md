@@ -10,8 +10,6 @@ Use SQL to extract insights and perform analysis on an eCommerce dataset. This t
 
 ## 🧰 Tools & Techniques
 - SQL (MySQL dialect)
-- Pandas and Matplotlib (for data analysis & visualization)
-- FPDF (for generating PDF reports)
 
 ## 📊 Highlights
 ### 1. Total Sales by Country
